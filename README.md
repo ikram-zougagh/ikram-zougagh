@@ -24,10 +24,11 @@ As a final-year engineering student at **ENSAO** specializing in **Data Science 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-AWS%20%7C%20Azure-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-AWS%20%7C%20Google%20Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/AI/ML-TensorFlow%20%7C%20Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Visualization-Tableau%20%7C%20Power%20BI-purple?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
+
 
 ---
 
