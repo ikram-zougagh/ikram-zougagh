@@ -71,10 +71,10 @@ I’m actively seeking **internships** and **project collaborations** in **Data 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ikramzougagh/" target="_blank">
+  <a href="www.linkedin.com/in/ikram-zougagh/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:ikram.zougagh@example.com">
+  <a href="mailto:ikramzougagh60@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
