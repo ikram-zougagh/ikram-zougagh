@@ -66,7 +66,7 @@ As a final-year engineering student at **ENSAO** specializing in **Data Science 
 ---
 
 ## 🎯 **Looking for Opportunities**
-**I'm eager to explore dynamic internships and collaborative projects in Data Science, Cloud Computing, and AI, where I can bring my technical expertise and passion for cutting-edge innovation to deliver impactful solutions.**
+I'm eager to explore dynamic **internships** and collaborative **projects in Data Science**, **Cloud Computing**, and **AI**, where I can bring my technical expertise and passion for cutting-edge innovation to deliver impactful solutions.
 
 
 ---
