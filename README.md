@@ -39,7 +39,7 @@ As a final-year engineering student at **ENSAO** specializing in **Data Science 
 - Developed and deployed **machine learning models** for defect detection and classification.
 - Worked with real-time data and cloud infrastructure to automate decision-making.
 
-**🔹 Web Developer Intern**  
+**🔹 Data Science Developer**  
 *Tribunal de Première Instance | 2023*  
 - Developed a web application using **HTML, CSS, Python, MySQL**, and the **Flask** framework.
 - Led both the **design and back-end development**, improving efficiency in managing legal records.
