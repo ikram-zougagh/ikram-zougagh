@@ -71,7 +71,7 @@ I’m actively seeking **internships** and **project collaborations** in **Data 
 ---
 
 <p align="center">
-  <a href="www.linkedin.com/in/ikram-zougagh/" target="_blank">
+  <a href="www.linkedin.com/in/ikram-zougagh" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:ikramzougagh60@gmail.com">
