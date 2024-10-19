@@ -53,11 +53,14 @@ As a final-year engineering student at **ENSAO** specializing in **Data Science 
   <img src="https://img.shields.io/badge/Project-Web_Development-green?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-- **Brain Tumor Detection (MRI)**: Trained deep learning models to classify brain tumors using MRI images.
-- **Car Defect Classification**: Built and optimized models to classify damaged and non-damaged cars using image data.
-- **Web Application for Legal Management**: Created an intuitive system for data management at a court using **Flask**.
+- **Brain Tumor Detection (MRI)**: Trained deep learning models to classify brain tumors using MRI images, leveraging convolutional neural networks (CNN) and pre-trained models.
+- **Car Defect Classification**: Developed and optimized machine learning models to classify damaged and non-damaged cars using image data, focusing on enhancing model accuracy through techniques like transfer learning.
+- **Web Application for Legal Management**: Designed and deployed a user-friendly web application for managing legal cases at a court, using **Flask** to streamline data handling and improve workflow efficiency.
+- **Medical Insurance Charge Analysis**: Predicted medical insurance charges using multiple linear regression, analyzing factors such as age, BMI, and smoking status with R.
+- **Airline Passenger Forecasting**: Built time series models, including ARIMA and LSTM, to forecast airline passenger traffic and evaluate predictive accuracy.
 
 ---
+
 
 ## 🚀 **Soft Skills**
 - **Creativity** & **Flexibility**: Adapting to new environments and innovative problem-solving.
