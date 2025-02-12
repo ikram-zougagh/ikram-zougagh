@@ -9,14 +9,15 @@
 
 ## 🌟 **About Me**
 
-**👩‍💻 Data Science & Cloud Computing Specialist**  
+**👩‍💻 Data Science Specialist**  
 **🎓 Double Degree - Engineering & Master’s in Digital Product & Service Integration**  
-**🎯 Passionate about solving real-world problems through data-driven insights and cloud innovations.**
+**🎯 Passionate about solving real-world problems through data-driven insights .**
 
 As a final-year engineering student at **ENSAO** specializing in **Data Science & Cloud Computing**, and a **Master 2 student in Product and Digital Services Integration** at the **Université de Franche-Comté**, I have gained deep expertise in:
+- **Artificial Intelligence, Machine Learning, and Deep Learning**
 - **Data Analysis & Engineering**
 - **Big Data Solutions**
-- **Artificial Intelligence, Machine Learning, and Deep Learning**
+
 
 ---
 
@@ -40,7 +41,7 @@ As a final-year engineering student at **ENSAO** specializing in **Data Science 
 - Developed and deployed **machine learning models** for defect detection and classification.
 - Worked with real-time data and cloud infrastructure to automate decision-making.
 
-**🔹 Data Science Developer**  
+**🔹 Data Scientist Intern**  
 *Tribunal de Première Instance | 2023*  
 - Developed a web application using **HTML, CSS, Python, MySQL**, and the **Flask** framework.
 - Led both the **design and back-end development**, improving efficiency in managing legal records.
